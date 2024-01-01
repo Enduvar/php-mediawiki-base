@@ -9,6 +9,7 @@ contents:
     - php-8.2
     - php-8.2-fpm
     - bash
+    - php-8.2-mysqli
     # TODO: Add packages here:
     # - busybox # add a shell (or bash, etc.)
     # - python3 # add a language runtime (or ruby-3.2, nodejs, etc.)
