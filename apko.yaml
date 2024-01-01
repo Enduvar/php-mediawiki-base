@@ -8,6 +8,7 @@ contents:
     - ca-certificates
     - php-8.2
     - php-8.2-fpm
+    - bash
     # TODO: Add packages here:
     # - busybox # add a shell (or bash, etc.)
     # - python3 # add a language runtime (or ruby-3.2, nodejs, etc.)
