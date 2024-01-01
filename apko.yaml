@@ -8,7 +8,7 @@ contents:
     - ca-certificates
     - php-8.2
     - php-8.2-fpm
-    - bash
+    - busybox
     - php-8.2-mysqli
     # TODO: Add packages here:
     # - busybox # add a shell (or bash, etc.)
